@@ -97,6 +97,7 @@ export function registerSupportedDevices(): void {
       'LED1622G12',
       'LED1649C5',
       'LED1836G9',
+      'LED1934G3',
       'ICPSHC24-10EU-IL-1',
       'ICPSHC24-30EU-IL-1',
     ],
